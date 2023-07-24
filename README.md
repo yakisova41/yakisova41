@@ -1,5 +1,7 @@
-[ワイのアフィカス用サイト](https://yakisova.com)
+### About me
+人間
 
-[ワイのアフィカス用サイト2](https://yakisova-pan.com)
+### 座右の銘
+うんこ
 
 ![](https://github-readme-stats.vercel.app/api?username=yakisova41)
