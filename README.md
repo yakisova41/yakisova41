@@ -1,1 +1,1 @@
-![](https://github-readme-stats-lgtic9x1d-yakisova41.vercel.app/api?username=yakisova41)
+![](https://github-readme-stats.vercel.app/api?username=yakisova41)
